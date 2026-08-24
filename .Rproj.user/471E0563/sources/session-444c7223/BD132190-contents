@@ -1,0 +1,85 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+.drop
+
+:   across() clean_names()
+
+```{r}
+penguins |>
+  summarise(
+    birds = n(),
+    avg_bin_len = mean(bill_len),
+    .by = "species"
+  )
+```
+
+```{r}
+heart <-  readxl::read_xlsx("data/heart.xlsx") |> 
+  janitor::clean_names()
+
+heart |>
+  drop_na(systolic, smoking_status) |>
+    summarise(
+    n = n(),
+    mean_systolic = mean(systolic),
+    sd_systolic = sd(systolic),
+    se_systolic = sd_systolic / sqrt(n),
+    ci_systolic = qt(0.975, df = n - 1) * se_systolic,
+    ci_lower = mean_systolic - ci_systolic,
+    ci_upper = mean_systolic + ci_systolic,
+    .by = smoking_status,
+    ) |> 
+  ungroup()
+```
+
+```{r}
+# alternative
+heart |>
+  drop_na(systolic, smoking_status) |>
+  group_by(smoking_status) |>
+  summarise(
+    n = n(),
+    mean_systolic = mean(systolic),
+    sd_systolic = sd(systolic),
+    se_systolic = sd_systolic / sqrt(n),
+    ci_systolic = qt(0.975, df = n - 1) * se_systolic,
+    ci_lower = mean_systolic - ci_systolic,
+    ci_upper = mean_systolic + ci_systolic,
+    .groups = "drop"
+  )
+```
+
+# \~
+
+```{r}
+msleep |>
+  select(name, sleep_total, bodywt) |>
+  mutate(
+    bodywt_category = case_when(
+      bodywt > 50 ~ "heavy",
+      bodywt > 10 ~ "medium",
+      TRUE ~ "light" # Default for remaining cases
+    )
+  )
+```
+
+```{r}
+multi60 <- function(x){
+  x*60
+}
+
+
+msleep |>
+  select(name, contains("sleep")) |> # Focus on sleep-related columns
+  mutate_at(c("sleep_total", "sleep_rem", "sleep_cycle"), multi60) # Multiply each value by 60
+```
+
+```{r}
+msleep |> 
+  select(name, contains("sleep")) |> 
+  mutate(across(c(2, 3, 4), ~ .x * 60))
+```

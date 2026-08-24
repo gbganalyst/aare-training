@@ -1,0 +1,21 @@
+student_id,friends,gender,age,study_year,campus_activities,friendship_strength,social_media_active,region_of_residence,department,campus_engagement
+1,"15,19,14",Male,20,Second Year,Occasionally,2,TRUE,Off-campus,Business,Low
+2,"10,18,11",Female,30,First Year,Occasionally,5,TRUE,On-campus,STEM,Medium
+3,20,Female,24,Second Year,Inactive,3,FALSE,Off-campus,Business,Low
+4,"5,19",Male,20,Second Year,Inactive,4,FALSE,On-campus,Humanities,Low
+5,"9,3,8",Female,24,Second Year,Inactive,4,TRUE,Off-campus,Arts,Medium
+6,"7,10",Male,23,Third Year,Occasionally,1,TRUE,On-campus,Arts,High
+7,19,Male,27,Final Year,Active,4,FALSE,On-campus,STEM,Low
+8,"17,11",Female,22,Second Year,Occasionally,1,TRUE,On-campus,Arts,High
+9,"12,15,10",Non-binary,22,Third Year,Active,3,TRUE,On-campus,STEM,Low
+10,7,Non-binary,25,Second Year,Inactive,4,FALSE,On-campus,STEM,Medium
+11,9,Male,20,Third Year,Inactive,3,FALSE,On-campus,STEM,Low
+12,"7,6",Female,27,Final Year,Occasionally,5,TRUE,Off-campus,STEM,Medium
+13,2,Male,19,First Year,Active,4,FALSE,On-campus,Business,Medium
+14,5,Female,27,Third Year,Inactive,4,FALSE,Off-campus,Humanities,Medium
+15,"13,18,1",Male,29,Third Year,Active,4,FALSE,On-campus,Humanities,High
+16,6,Non-binary,19,Third Year,Inactive,1,FALSE,On-campus,Humanities,Low
+17,15,Non-binary,27,First Year,Occasionally,2,FALSE,On-campus,Business,Low
+18,15,Female,23,Third Year,Occasionally,3,TRUE,On-campus,STEM,Low
+19,"16,6",Non-binary,29,Third Year,Active,4,TRUE,Off-campus,Humanities,Low
+20,"8,7,16",Male,21,Second Year,Inactive,3,FALSE,Off-campus,Humanities,High

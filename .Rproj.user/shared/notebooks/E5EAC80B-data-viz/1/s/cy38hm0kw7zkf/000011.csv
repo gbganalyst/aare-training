@@ -1,0 +1,7 @@
+"0","plot(mtcars$disp, "
+"0","     mtcars$mpg,   "
+"0","     main = ""Engine Displacement vs. Miles per Gallon"",   "
+"0","     xlab = ""Displacement (cu.in.)"",   "
+"0","     ylab = ""Miles per Gallon"",   "
+"0","     pch = 19,   "
+"0","     col = ""darkblue"" )"

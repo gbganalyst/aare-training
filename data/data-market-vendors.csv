@@ -1,0 +1,301 @@
+vendor_id,vendor_type,payment_preference
+VND0001,Produce,Cash
+VND0002,Electronics,Bank Transfer
+VND0003,Textiles,Mobile Money
+VND0004,Textiles,Mobile Money
+VND0005,Produce,Mobile Money
+VND0006,Produce,Bank Transfer
+VND0007,Produce,Cash
+VND0008,Electronics,Mobile Money
+VND0009,Textiles,Bank Transfer
+VND0010,Textiles,Cash
+VND0011,Produce,Cash
+VND0012,Electronics,Cash
+VND0013,Electronics,Cash
+VND0014,Produce,Bank Transfer
+VND0015,Produce,Mobile Money
+VND0016,Produce,Mobile Money
+VND0017,Produce,Cash
+VND0018,Textiles,Cash
+VND0019,Produce,Cash
+VND0020,Produce,Cash
+VND0021,Textiles,Mobile Money
+VND0022,Produce,Mobile Money
+VND0023,Produce,Mobile Money
+VND0024,Produce,Cash
+VND0025,Textiles,Bank Transfer
+VND0026,Electronics,Bank Transfer
+VND0027,Produce,Cash
+VND0028,Textiles,Mobile Money
+VND0029,Textiles,Mobile Money
+VND0030,Produce,Cash
+VND0031,Textiles,Mobile Money
+VND0032,Produce,Mobile Money
+VND0033,Produce,Cash
+VND0034,Electronics,Mobile Money
+VND0035,Electronics,Cash
+VND0036,Electronics,Cash
+VND0037,Produce,Mobile Money
+VND0038,Produce,Mobile Money
+VND0039,Textiles,Mobile Money
+VND0040,Produce,Cash
+VND0041,Produce,Cash
+VND0042,Textiles,Mobile Money
+VND0043,Produce,Cash
+VND0044,Electronics,Bank Transfer
+VND0045,Produce,Cash
+VND0046,Textiles,Mobile Money
+VND0047,Produce,Cash
+VND0048,Textiles,Cash
+VND0049,Textiles,Mobile Money
+VND0050,Produce,Cash
+VND0051,Electronics,Bank Transfer
+VND0052,Electronics,Bank Transfer
+VND0053,Electronics,Bank Transfer
+VND0054,Electronics,Mobile Money
+VND0055,Textiles,Cash
+VND0056,Electronics,Bank Transfer
+VND0057,Produce,Cash
+VND0058,Produce,Cash
+VND0059,Produce,Bank Transfer
+VND0060,Produce,Cash
+VND0061,Produce,Cash
+VND0062,Produce,Cash
+VND0063,Electronics,Bank Transfer
+VND0064,Produce,Cash
+VND0065,Produce,Bank Transfer
+VND0066,Textiles,Mobile Money
+VND0067,Produce,Bank Transfer
+VND0068,Electronics,Bank Transfer
+VND0069,Produce,Cash
+VND0070,Electronics,Cash
+VND0071,Electronics,Mobile Money
+VND0072,Produce,Cash
+VND0073,Produce,Cash
+VND0074,Electronics,Bank Transfer
+VND0075,Textiles,Cash
+VND0076,Textiles,Cash
+VND0077,Electronics,Bank Transfer
+VND0078,Produce,Cash
+VND0079,Produce,Mobile Money
+VND0080,Produce,Cash
+VND0081,Electronics,Mobile Money
+VND0082,Textiles,Mobile Money
+VND0083,Produce,Cash
+VND0084,Produce,Mobile Money
+VND0085,Produce,Mobile Money
+VND0086,Produce,Mobile Money
+VND0087,Textiles,Cash
+VND0088,Textiles,Cash
+VND0089,Electronics,Bank Transfer
+VND0090,Textiles,Bank Transfer
+VND0091,Produce,Bank Transfer
+VND0092,Textiles,Mobile Money
+VND0093,Electronics,Mobile Money
+VND0094,Textiles,Bank Transfer
+VND0095,Electronics,Mobile Money
+VND0096,Textiles,Bank Transfer
+VND0097,Textiles,Bank Transfer
+VND0098,Produce,Cash
+VND0099,Produce,Mobile Money
+VND0100,Produce,Mobile Money
+VND0101,Produce,Cash
+VND0102,Textiles,Bank Transfer
+VND0103,Produce,Cash
+VND0104,Textiles,Bank Transfer
+VND0105,Electronics,Mobile Money
+VND0106,Produce,Mobile Money
+VND0107,Produce,Cash
+VND0108,Electronics,Cash
+VND0109,Produce,Bank Transfer
+VND0110,Produce,Cash
+VND0111,Produce,Cash
+VND0112,Produce,Bank Transfer
+VND0113,Electronics,Bank Transfer
+VND0114,Electronics,Bank Transfer
+VND0115,Textiles,Mobile Money
+VND0116,Electronics,Bank Transfer
+VND0117,Electronics,Mobile Money
+VND0118,Produce,Cash
+VND0119,Electronics,Bank Transfer
+VND0120,Textiles,Bank Transfer
+VND0121,Electronics,Bank Transfer
+VND0122,Electronics,Bank Transfer
+VND0123,Produce,Cash
+VND0124,Produce,Cash
+VND0125,Produce,Cash
+VND0126,Produce,Cash
+VND0127,Electronics,Bank Transfer
+VND0128,Electronics,Bank Transfer
+VND0129,Produce,Cash
+VND0130,Textiles,Cash
+VND0131,Produce,Cash
+VND0132,Produce,Mobile Money
+VND0133,Produce,Cash
+VND0134,Produce,Cash
+VND0135,Electronics,Cash
+VND0136,Produce,Mobile Money
+VND0137,Textiles,Cash
+VND0138,Textiles,Bank Transfer
+VND0139,Produce,Mobile Money
+VND0140,Electronics,Cash
+VND0141,Electronics,Cash
+VND0142,Produce,Bank Transfer
+VND0143,Textiles,Mobile Money
+VND0144,Produce,Cash
+VND0145,Produce,Mobile Money
+VND0146,Produce,Bank Transfer
+VND0147,Textiles,Bank Transfer
+VND0148,Textiles,Bank Transfer
+VND0149,Produce,Cash
+VND0150,Produce,Cash
+VND0151,Electronics,Bank Transfer
+VND0152,Produce,Cash
+VND0153,Produce,Cash
+VND0154,Textiles,Bank Transfer
+VND0155,Electronics,Mobile Money
+VND0156,Produce,Cash
+VND0157,Textiles,Cash
+VND0158,Electronics,Bank Transfer
+VND0159,Produce,Cash
+VND0160,Textiles,Cash
+VND0161,Produce,Cash
+VND0162,Textiles,Mobile Money
+VND0163,Textiles,Mobile Money
+VND0164,Textiles,Mobile Money
+VND0165,Produce,Bank Transfer
+VND0166,Electronics,Mobile Money
+VND0167,Produce,Cash
+VND0168,Produce,Mobile Money
+VND0169,Produce,Cash
+VND0170,Textiles,Bank Transfer
+VND0171,Textiles,Cash
+VND0172,Produce,Bank Transfer
+VND0173,Textiles,Cash
+VND0174,Produce,Mobile Money
+VND0175,Textiles,Mobile Money
+VND0176,Produce,Bank Transfer
+VND0177,Textiles,Cash
+VND0178,Produce,Cash
+VND0179,Electronics,Bank Transfer
+VND0180,Produce,Cash
+VND0181,Produce,Cash
+VND0182,Produce,Mobile Money
+VND0183,Electronics,Bank Transfer
+VND0184,Electronics,Bank Transfer
+VND0185,Produce,Cash
+VND0186,Textiles,Bank Transfer
+VND0187,Electronics,Cash
+VND0188,Textiles,Cash
+VND0189,Textiles,Bank Transfer
+VND0190,Produce,Mobile Money
+VND0191,Produce,Cash
+VND0192,Electronics,Bank Transfer
+VND0193,Electronics,Mobile Money
+VND0194,Textiles,Cash
+VND0195,Produce,Cash
+VND0196,Produce,Cash
+VND0197,Textiles,Mobile Money
+VND0198,Electronics,Cash
+VND0199,Electronics,Bank Transfer
+VND0200,Electronics,Bank Transfer
+VND0201,Textiles,Mobile Money
+VND0202,Produce,Cash
+VND0203,Produce,Cash
+VND0204,Electronics,Bank Transfer
+VND0205,Textiles,Mobile Money
+VND0206,Produce,Cash
+VND0207,Produce,Bank Transfer
+VND0208,Textiles,Bank Transfer
+VND0209,Produce,Bank Transfer
+VND0210,Produce,Mobile Money
+VND0211,Textiles,Mobile Money
+VND0212,Textiles,Mobile Money
+VND0213,Textiles,Bank Transfer
+VND0214,Produce,Mobile Money
+VND0215,Textiles,Cash
+VND0216,Produce,Cash
+VND0217,Produce,Cash
+VND0218,Textiles,Bank Transfer
+VND0219,Textiles,Bank Transfer
+VND0220,Electronics,Mobile Money
+VND0221,Textiles,Mobile Money
+VND0222,Textiles,Mobile Money
+VND0223,Produce,Bank Transfer
+VND0224,Produce,Mobile Money
+VND0225,Produce,Mobile Money
+VND0226,Produce,Cash
+VND0227,Electronics,Bank Transfer
+VND0228,Produce,Cash
+VND0229,Electronics,Cash
+VND0230,Textiles,Bank Transfer
+VND0231,Electronics,Bank Transfer
+VND0232,Textiles,Bank Transfer
+VND0233,Textiles,Bank Transfer
+VND0234,Textiles,Mobile Money
+VND0235,Produce,Mobile Money
+VND0236,Textiles,Bank Transfer
+VND0237,Produce,Mobile Money
+VND0238,Produce,Cash
+VND0239,Textiles,Mobile Money
+VND0240,Produce,Cash
+VND0241,Electronics,Bank Transfer
+VND0242,Electronics,Bank Transfer
+VND0243,Electronics,Mobile Money
+VND0244,Produce,Mobile Money
+VND0245,Produce,Cash
+VND0246,Electronics,Mobile Money
+VND0247,Produce,Cash
+VND0248,Electronics,Bank Transfer
+VND0249,Electronics,Bank Transfer
+VND0250,Electronics,Bank Transfer
+VND0251,Produce,Cash
+VND0252,Produce,Mobile Money
+VND0253,Electronics,Bank Transfer
+VND0254,Produce,Cash
+VND0255,Produce,Mobile Money
+VND0256,Textiles,Mobile Money
+VND0257,Electronics,Mobile Money
+VND0258,Textiles,Cash
+VND0259,Textiles,Bank Transfer
+VND0260,Produce,Cash
+VND0261,Textiles,Mobile Money
+VND0262,Electronics,Mobile Money
+VND0263,Produce,Cash
+VND0264,Textiles,Cash
+VND0265,Electronics,Mobile Money
+VND0266,Textiles,Mobile Money
+VND0267,Textiles,Mobile Money
+VND0268,Textiles,Mobile Money
+VND0269,Produce,Bank Transfer
+VND0270,Produce,Cash
+VND0271,Electronics,Bank Transfer
+VND0272,Electronics,Bank Transfer
+VND0273,Electronics,Mobile Money
+VND0274,Electronics,Bank Transfer
+VND0275,Textiles,Bank Transfer
+VND0276,Textiles,Bank Transfer
+VND0277,Electronics,Mobile Money
+VND0278,Textiles,Bank Transfer
+VND0279,Textiles,Mobile Money
+VND0280,Electronics,Mobile Money
+VND0281,Electronics,Bank Transfer
+VND0282,Produce,Bank Transfer
+VND0283,Produce,Cash
+VND0284,Produce,Cash
+VND0285,Textiles,Mobile Money
+VND0286,Produce,Cash
+VND0287,Textiles,Cash
+VND0288,Textiles,Cash
+VND0289,Produce,Cash
+VND0290,Textiles,Cash
+VND0291,Produce,Cash
+VND0292,Produce,Cash
+VND0293,Electronics,Mobile Money
+VND0294,Produce,Cash
+VND0295,Produce,Mobile Money
+VND0296,Textiles,Mobile Money
+VND0297,Electronics,Bank Transfer
+VND0298,Produce,Cash
+VND0299,Textiles,Cash
+VND0300,Produce,Cash
