@@ -1,5 +1,6 @@
 ---
 title: "Data Visualisation"
+author: Dr Aare Akintunde
 format: html
 editor_options: 
   chunk_output_type: console
