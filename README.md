@@ -153,6 +153,10 @@ Key functions include:
 
 - **Push** – sends local changes to GitHub.
 
+- **switch** – to move between branches
+
+- **Merge** – to merge two branches
+
 - **Pull** – retrieves changes from GitHub.
 
 - **Clone** – creates a local copy of a repository.
